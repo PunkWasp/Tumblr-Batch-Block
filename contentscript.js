@@ -1,6 +1,6 @@
 var openBlockList = function () {
 	$('document').ready( function () {
-		$("#blocked_blogs > .accordion_trigger_wrapper > .accordion_trigger").click();
+		$(".p5iNo > .TRX6J").click();
 	});
 }
 
